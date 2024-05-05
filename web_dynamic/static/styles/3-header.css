@@ -27,5 +27,5 @@ header #api_status {
 }
 
 header .available {
-	background-color: #ff545f;
+	background-color: #ff545f !important;
 }
